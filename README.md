@@ -2,8 +2,8 @@
 
 Create the webpage shown in the reference images below -
 
-![](screenshot-1.png)
-![](screenshot-2.png)
+![](reference-1.png)
+![](reference-2.png)
 
 - The page should have enough content for a vertical scrollbar to appear
 - Add a navigation on top
